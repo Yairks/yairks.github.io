@@ -4,6 +4,5 @@ Most of the information on the history of the Eruv page can be found on the [sit
 
  #### Frequently Asked Questions:
  ###### Why do this?
- No good reason. Mostly because I was bored during and after finals.
-
-TESTING...1...2...3...TESTING
+ In theory, as a chance to contribute to the visibility of the services provided by the UMD Orthodox Jewish community. 
+ Practically, though, I was excited for the chance to work on my CSS and web design skills.
